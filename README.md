@@ -45,3 +45,4 @@ git push -f git@github.com:YOUR_USER_NAME/REPOSITORY_NAME.git master:gh-pages
 cd -
 
 #### Посмотреть данный проект вы можете на [GitHab Pages](https://irina357.github.io/autotex_test/)
+[GitHab Pages](https://github.com/Irina357/autotex_test)
